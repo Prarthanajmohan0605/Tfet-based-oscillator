@@ -57,7 +57,7 @@ The following device configurations are investigated:
 
 Additional references consulted during the project will be documented as the repository is updated.
 
-👥 My teammates were:
+👥 My teammates :
 
 - Aashika Sreekumar Nambiar
 - Pournami M
